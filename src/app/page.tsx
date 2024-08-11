@@ -1,5 +1,6 @@
 
 import { FeaturedCourese } from "@/components/FeaturalCourse";
+import Footer from "@/components/Footer";
 import MusicSchoolTestimonial from "@/components/FooterCards";
 import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructore";
@@ -17,6 +18,7 @@ export default function Home() {
     <MusicSchoolTestimonial/>
     <UpComingWebinar/>
     <Instructors/>
+    <Footer/>
 
 
     
